@@ -1,0 +1,40 @@
+_repo: The-Expositor-s-Bible--The-Psalms-Vol.-1Psalms-I.-XXXVIII._42445
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclaren, Alexander
+    alias: McLaren, Alexander
+    birthdate: 1826
+    deathdate: 1910
+    gutenberg_agent_id: '2330'
+    url: http://www.gutenberg.org/2009/agents/2330
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    - Wace, Walter E.
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Psalms -- Commentaries'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The Psalms, Vol. 1
+
+  Psalms I.-XXXVIII.'
+url: http://www.gutenberg.org/ebooks/42445
